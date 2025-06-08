@@ -1,5 +1,8 @@
-## My name is Dan, This is my collected code.
-I'm interested in coding, game/mod development, hacking, linux, electronics etc..
+## My name is Dan, This is where I collect code.
+I'm interested in Computing so lots of `coding`, `game/mod development`, `hacking`, `linux`, `electronics` etc..
+I like fixing things and learning from other peoples examples, and so I like to share my code back in the hope it can help others.
+
+Feel free to send me a message, I try to respond as quickly as possible!
 
 <picture>
   <source
