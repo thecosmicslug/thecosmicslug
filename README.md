@@ -3,8 +3,8 @@ I'm interested in Computing so lots of `coding`, `game/mod development`, `hackin
 I like fixing things and learning from other peoples examples, and so I like to share my code back in the hope it can help others.
 
 Feel free to send me a message, I try to respond as quickly as possible!
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<!-- Github Stats card -->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=thecosmicslug&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
@@ -16,3 +16,5 @@ Feel free to send me a message, I try to respond as quickly as possible!
   />
   <img src="https://github-readme-stats.vercel.app/api?username=thecosmicslug&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
+<!-- Programmer Jokes card -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
