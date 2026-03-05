@@ -21,4 +21,4 @@ Feel free to send me a message, I try to respond as quickly as possible!
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!-- Github Trophy card -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=thecosmicslug&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=thecosmicslug&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
